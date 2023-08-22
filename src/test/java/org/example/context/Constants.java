@@ -6,6 +6,7 @@ public class Constants {
 	//base url,
 	// location of driver
 	// etc
+	//add other constants
 
 
 	public static final String BASE_URL = getPropertiesFile().getProperty("BASE_URL");
